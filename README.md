@@ -10,7 +10,7 @@ Addtionally,I believe sometime the authors of video need handle amount of pictur
 I think a more effective application is should be considered.
 
 ##Why it so simple
-Forgive me it's the first time I tried WPF Framework,I haven't could control everything well(before this I only could<br> develop Winform applications.
+Forgive me it's the first time I tried WPF Framework,I haven't could control everything well(before this I could only develop Winform applications.
 Also it seems too mess in project(of course I need learn arrange anything in solution next time<br>
 But with my video edit experience and powerful WPF,<br>
 It will be soon.<br>
