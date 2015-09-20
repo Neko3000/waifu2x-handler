@@ -16,7 +16,7 @@ But with my video edit experience and powerful WPF,<br>
 It will be soon.<br>
 
 ##Last
-MAKE SURE THE FOLDER INCLUDING WITHOUT LIMITATION FILENAME DO NOT CONTAIN ANY NON-EN-CHARACTER
+MAKE SURE THE PATH INCLUDING WITHOUT LIMITATION FOLDER AND FILENAME DO NOT CONTAIN ANY NON-EN-CHARACTER
 
 ![](https://github.com/Neko3000/waifu2x-handler/raw/master/description/p1.png)  
 ![](https://github.com/Neko3000/waifu2x-handler/raw/master/description/p2.png)  
