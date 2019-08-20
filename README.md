@@ -1,24 +1,26 @@
 # waifu2x-handler
+![License: MIT](https://img.shields.io/github/license/Neko3000/StarryTarget)
+![Platforms: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Language: C#](https://img.shields.io/badge/language-C%23-blue)
+![Version: v0.80](https://img.shields.io/badge/version-v0.80-lightgrey)
 
-##What is this
-Base on the https://github.com/lltcggie/waifu2x-caffe<br>
-This seems like a shell of the source application.
+Waifu2x-handler is a application based on windows, which help you batch execute waifu2x command.
 
-##What it can do
-For I never saw any application can scale image with absolutely perfect quality like this before,<br>
-Addtionally,I believe sometime the authors of video need handle amount of pictures even the sequence of pictures(for animation)<br>
-I think a more effective application is should be considered.
-
-##Why it so simple
-Forgive me it's the first time I tried WPF Framework,I haven't could control everything well(before this I could only develop Winform applications.
-Also it seems too mess in project(of course I need learn arrange anything in solution next time<br>
-But with my video edit experience and powerful WPF,<br>
-It will be soon.<br>
-
-##Last
-MAKE SURE THE PATH INCLUDING WITHOUT LIMITATION FOLDER AND FILENAME DO NOT CONTAIN ANY NON-EN-CHARACTER
-
-![](https://github.com/Neko3000/waifu2x-handler/raw/master/description/p1.png)  
-![](https://github.com/Neko3000/waifu2x-handler/raw/master/description/p2.png)  
+## Statement
+Driven by adorable [waifu2x-coffee](https://github.com/lltcggie/waifu2x-caffe).</br>
+> waifu2x:
+>> Image Super-Resolution for Anime-style art using Deep Convolutional Neural Networks. 
 
 
+## How to use
+<p align="center"> 
+<img src="https://github.com/Neko3000/waifu2x-handler/raw/master/description/p1.png" alt="screen-record-1">
+<img src="https://github.com/Neko3000/waifu2x-handler/raw/master/description/p2.png" alt="screen-record-2">
+</p>
+
+## Contact To Me
+E-mail: sheran_chen@outlook.com </br>
+Weibo: @妖绀
+
+## License
+Distributed under the MIT license. See LICENSE for more information.
